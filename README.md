@@ -54,5 +54,85 @@ Enemy Units **now** move, attack and prepare using formation movement, making it
 
 Rocroi now follows my classic 2 player, 1 dummy style of maps (crusade, breda and now rocroi), the addition of an allied player can help into making units you cant control neither attack, and this helps A LOT on rocroi, since theres a lot of scripted movement and a lot of posibilities of breaking something, but thats over now with the addition of player3 :) 
 
+# Cosmetic Tuning Pack
 
+If youre up to date in aoe4 crafted maps modding, then you will recognize "Blockade at salerno" or "The Siege of vienna" , both mods from the modder Foxplot. These crafted/scripted maps have something very unique in them and thats the addition of a tuning pack that serves a purpose in-game (maybe new units, cosmetic changes, etc...) 
+
+Now on rocroi V3, i created an cosmetic tuning pack that changes the name of some units and also its looks, its not necesary to play and its just like "if you want do it, if you dont, then play like it was supposed to be in the first place"
+
+The tuning pack **replaces two units** , the "Spearman" and the "Handcannoner". The changes to these units are the following :
+
+- Spearman renamed to **Tercio Spearman**
+- Handcanoneer renamed to **Arcabucero**
+- Handcanoneer icon changed
+- Handcanoneer **skin** changed
+- Handcanoneer **weapon** changed, however it deals the same damage
+
+# Warning Entries Change 
+
+I think one of the best changes to this update and im not kidding is the reduced stuff on screen that you have to read, it makes it so better. Now everytime you start a wave a horn sound will start, instead of warning on screen that you have to read :) , when you complete a wave you will rewarded as well with a happy sound, instead of an eventcue text.
+
+# Story Overhaul
+
+This is one of the BEST changes and one of the key reasons i wanted to make the update on the first place, im soo exited to be able to finally write this, but first lets get to the main points of the story overhaul and what i did:
+
+- Deleted the LOCBD entries before each dialogue
+- Improved the pace of reading , pace of warnings
+- Re-wrote the story
+- Improved the grammar
+- Made it more epic
+
+If you want to see the direct comparison of the dialogues :
+
+**OLD DIALOGUE / STORY**
+
+- Welcome to Rocroi , Soldier
+- You are here to re-write history
+- You are in command of the spanish tercios
+- The objective is simple
+- Defeat the French and re-write history
+- Good luck , soldier
+-- wave 1 and 2 beaten
+- After winning the first three batallions
+- Spain thought the war was fundamently over
+- That was far from the truth..
+- Spain had to deal now with the
+- french siege...
+- Spain needed some Arcabuces
+- But some french militia
+- blocked their way to flandes
+- Spain needed to clear the path
+- Soldier , kill them all
+-- wave 4 beaten
+- Great job!
+- Arcabuces have arrived
+- Spain just needs to clear one wave
+- And the war would be over
+- or maybe it wasnt over..
+- The french wave is moving
+- in different groups
+- Soldier , do some strategy
+- And make three different armies
+- 2 for each batallion
+- And the last one for the siege
+-- wave 5 beaten
+- You managed to stand with bravery
+- And you will be remembered
+- forever...
+- The duque of enghien
+- wants you to leave rocroi
+- And surrender..
+- but his exellency seems to forget.
+- he is facing an spanish tercio
+- Enghien decided to attack
+- Spanish tercios were in a clear disadvantage
+- But that was not going to stop them
+-- wave 6 beaten
+- Finally, after 8 hours..
+- Victory was near
+- The last french regiment
+- moved to defend the hill
+- defeat them at the last battle
+- in the hill
+  
 
