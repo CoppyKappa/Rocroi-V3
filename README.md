@@ -32,7 +32,7 @@ The update focuses on improving the experience of the player, and making the mod
 
 **-Optional cosmetic tuning pack**
 
-**-Player3 (dummy) addition to make sure each wave its played as it should
+**-Player3 (dummy) addition to make sure each wave its played as it should**
 
 **And More!**
 
@@ -214,6 +214,35 @@ This is one of my favorite parts of the update, i love editing the scenarios and
 
 Theres a lot of changes to it, and i recommend looking at them by your self :) 
 
-# 
+# Individual Wave changes
+
+Not balance updates regarding unit numbers but i made changes on how the waves work
+
+**WAVE 1 :** 
+- The initial enemy regiment gathers at the center of their basement in square formation before charging into the battle zone
+
+**WAVE 3 :**
+- Wave 3 wont start unit all allied units are inside the reticule , giving time for the player to prepare and for reinforcements to come in before battle starts
+- Units will be under player3 influence until all player1 units are inside the reticule
+
+**WAVE 5:**
+- Units will be under player3 influence until battle starts
+
+# Other Stuff
+
+I think its worth mentioning, but its not that important.
+
+- Deleted a lot of unused lines of code
+- Changed the skin of the handcanoneers the french uses to their respective civ skin
+- Changed AI player names
+- Changed mod rdo
+- Changed mod thumbnail
 
 
+# What's Next...
+
+Im announcing my next mod **Enghien Untold** , it will fill the never told story of enghien on my Rocroi mod, he is an important character :) , this project will be a mini project and will probably be a narrative experience followed with some combat and decisions impacting your play. 
+
+Still to be decided tho! But the mod is based on THE same rocroi battlefield... (expect a lot of map changes though, im making the mod from scratch) 
+
+I hope you guys enjoy the update, shoutout to Foxplot, NTL, Comrad Ping and all the folks on the modding discord.
