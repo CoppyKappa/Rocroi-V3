@@ -245,4 +245,4 @@ Im announcing my next mod **Enghien Untold** , it will fill the never told story
 
 Still to be decided tho! But the mod is based on THE same rocroi battlefield... (expect a lot of map changes though, im making the mod from scratch) 
 
-I hope you guys enjoy the update, shoutout to Foxplot, NTL, Comrad Ping and all the folks on the modding discord.
+I hope you guys enjoy the update, shoutout to Foxplot, NTL, Comrad Ping and all the folks on the modding discord..
