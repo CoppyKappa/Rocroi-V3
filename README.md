@@ -134,5 +134,86 @@ If you want to see the direct comparison of the dialogues :
 - moved to defend the hill
 - defeat them at the last battle
 - in the hill
-  
+
+**NEW DIALOGUE/ STORY**
+
+- Captain! You arrived! Welcome to Rocroi
+- Our goal is simple, defeat the french and re-write history
+- Are you capable of doing so?
+- Good luck, captain
+-- AFTER WAVE 1 AND 2
+- Captain, a group of pikes are approching
+- We need to meet them on battle
+- READY??
+- STEADY
+- CIERRA ESPAÑA
+-- AFTER WAVE 3 IS BEATEN
+- The tide of the battle is shifting in our favor.
+- However, we have not yet achieved victory.
+- Now they brought siege weapons and we are exposed to the cannon fire
+- We need our special arcabuces as soon as possible
+- However the filthy french blocked our ways to flanders
+- We will send the french to the gates of hell
+-- AFTER WAVE 4 IS BEATEN
+- Great! The lanes to flanders have been oppened
+- We can recieve arcabuces and reinforcements again
+- Captain, we recieved news on the field
+- There's a rumor going around, they might surrender
+- Maybe it's just a rumor though...
+- A French regiment moves through the battlefield
+- We should prepare an strategy, quick lets get into formation
+-- AFTER WAVE 5 IS BEATEN
+- Neither fire or blood managed to stop us
+- We stand with bravery and as we look through the scenery
+- Spears, swords, blood, fallen friends and men
+- We all fought for the same banner
+- And we will be remembered...
+- Forever...
+-- AFTER WAVE 6 IS BEATEN
+- After eight hours of battle and a few men standing
+- Enghien, the commander of the French offers us a formal surrender
+- But his excellency seems to forget...
+- He is facing a Spanish tercio
+- Captain, they brought the guns and horses
+- Make your best last effort
+-- AFTER WAVE 7 IS BEATEN (PRE-OUTRO)
+- Good job, captain
+- You managed to re-write history
+- Santiago!
+
+# Map Pings, help text and other QOL features..
+
+Aside, locbd entries change, story telling overhaul, intro remake and outro addition and many other feautures, i reached a final point in wich i thought i should improve. As the developer i always know how to progress in my own maps, since i coded them and i know what is what and how to move forward and complete objectives, however the player without enough information can get lost in objectives, so i thought i should change that, and so i did. 
+
+I implemented some campaign feautures used by the modders Foxplot and NTL on their crafted maps, those features i implemented on rocroi are the following: 
+
+- Dynamic Map Pings
+- Ground Help Texts
+- Marker map chains
+- Ground reticules + ping
+
+These four basic feautures can make a decent map into a really really good map, and believe me, they do look good on rocroi and it was very needed, now its simply impossible to get confused on what to do next, these map pings, ground texts and marker chains can be found on the following waves :
+
+**WAVE 1 :** Ground reticule + groundtext + dynamic ping on enemy sgroup
+
+**WAVE 2 :** dynamic ping on enemy sgroup
+
+**WAVE 3 :** Ground reticule
+
+**WAVE 4 :**  groundtext + normal/terrain ping
+
+**WAVE 5 :** groundtext + dynamic ping on enemy sgroup + marker chain + terrain/map ping
+
+**WAVE 6 :** Ground reticule + groundtext + dynamic ping on enemy sgroup
+
+**WAVE 7 :**  groundtext + terrain/map ping
+
+# Map Design Changes
+
+This is one of my favorite parts of the update, i love editing the scenarios and making them look beautiful. Rocroi has recieved some of these changes, it should feel now more complete and with less void space on non-combat zones, it still has the arid theme to it but now it has more trees, it feels more like a summer in the netherlands, combining it with my favorite props (military tents, wheelbarrows, bulleyes) etc.. 
+
+Theres a lot of changes to it, and i recommend looking at them by your self :) 
+
+# 
+
 
